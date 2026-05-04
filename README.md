@@ -1,5 +1,5 @@
 App for finding events at the Roots & Wings Festival in Austin, TX.
 
-Short URL:  https://tinyurl.com/RootsWingsEventFinder
+Short URL:  https://tinyurl.com/RootsWingsEvents
 
-Redirect:  https://halterforestry.github.io/RWFinder/
+Redirect:  https://rootsandwingsfestival.github.io/eventfinder/
